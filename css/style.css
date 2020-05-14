@@ -20,19 +20,29 @@ img {
 /* Profile 
 ________________________________________*/
 header {
-    background-color: #372549;
+    background: #372549;
+    color: #eacdc2;
 }
 
 /* Projects
 ________________________________________*/
-
+.projects {
+    background: #eacdc2; 
+}
 
 /* Work Experience
 ________________________________________*/
+.work-experience {
+    background: #774c60;
+}
 
 /* Education
 ________________________________________*/
 
+
 /* Contact Info
 ________________________________________*/
-
+footer {
+    background: #372549;
+    color: #eacdc2;
+}
