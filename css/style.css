@@ -16,6 +16,16 @@ body {
 img {
     width: 300px;
 }
+a {
+    color: #b75d69;
+}
+a.hover {
+    text-decoration: none;
+}
+
+header {
+    margin-top: -21px;
+}
 
 /* Profile 
 ________________________________________*/
@@ -27,7 +37,8 @@ header {
 /* Projects
 ________________________________________*/
 .projects {
-    background: #eacdc2; 
+    background-color: #eacdc2; 
+    margin-top: -20px;
 }
 
 /* Work Experience
@@ -38,6 +49,7 @@ ________________________________________*/
 
 /* Education
 ________________________________________*/
+
 
 
 /* Contact Info
