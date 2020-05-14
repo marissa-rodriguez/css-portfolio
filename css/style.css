@@ -23,10 +23,6 @@ a.hover {
     text-decoration: none;
 }
 
-header {
-    margin-top: -21px;
-}
-
 /* Profile 
 ________________________________________*/
 header {
@@ -37,7 +33,7 @@ header {
 /* Projects
 ________________________________________*/
 .projects {
-    background-color: #eacdc2; 
+    background: #eacdc2; 
     margin-top: -20px;
 }
 
