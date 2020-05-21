@@ -56,6 +56,7 @@ ________________________________________*/
 header {
     background: #372549;
     color: #eacdc2;
+    text-align: center;
 }
 
 /* Projects
@@ -93,10 +94,15 @@ ________________________________________*/
 footer {
     background: #372549;
     color: #eacdc2;
+    text-align: center;
 }
 .contact-list {
     list-style-type: none;
     padding: 0;
     display: flex;
     justify-content: center;
+}
+.contact-list a {
+    padding: 15px;
+    display: inline-block;
 }
