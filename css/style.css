@@ -94,3 +94,9 @@ footer {
     background: #372549;
     color: #eacdc2;
 }
+.contact-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
