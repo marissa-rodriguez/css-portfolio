@@ -105,9 +105,15 @@ ________________________________________*/
 }
 /* Education
 ________________________________________*/
-
-
-
+.education {
+    background-image: url(../images/sharon-mccutcheon-unsplash.jpg);
+    background-size: cover;
+    background-position: top right;
+    padding-bottom: 100px;
+}
+.education p {
+    width: 60%;
+}
 /* Contact Info
 ________________________________________*/
 footer {
