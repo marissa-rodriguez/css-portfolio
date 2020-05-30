@@ -94,11 +94,6 @@ ________________________________________*/
 .work-experience {
     background: #774c60;
 }
-.job-item {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 20px;
-}
 /* Education
 ________________________________________*/
 .education {
@@ -133,5 +128,11 @@ ________________________________________*/
     .project-item img {
         float: left;
         margin-right: 20px;
+    }
+
+    .job-item {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        column-gap: 20px;
     }
 }
